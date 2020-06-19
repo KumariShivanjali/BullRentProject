@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529432358740",
+    "firebase_url": "https://bull-rent-d882b.firebaseio.com",
+    "project_id": "bull-rent-d882b",
+    "storage_bucket": "bull-rent-d882b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529432358740:android:5af9d9e6b969a9b8a5a2c1",
+        "android_client_info": {
+          "package_name": "com.github.bullrentproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529432358740-rpkiiivbht4l2droiqpdjpgkj5k9bsuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_LKVMqR7C5wIQ5Yw-KP596fy1FyQmC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529432358740-rpkiiivbht4l2droiqpdjpgkj5k9bsuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
